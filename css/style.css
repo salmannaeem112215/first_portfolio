@@ -59,6 +59,7 @@ section {
     cursor: default;
 }
 
+
 .navbar a {
     font-size: 1.7rem;
     color: var(--text-color);
@@ -419,7 +420,7 @@ span {
         box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .2);
         display: none;
     }
-    .navbar .active{
+    .navbar.active{
         display: block; 
     }
     .navbar a{

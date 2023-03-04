@@ -3,6 +3,7 @@ let menuIcon = document.querySelector('#menu_icon');
 let navbar = document.querySelector('.navbar');
 
 menuIcon.onclick = () =>{
+    console.log('hi');
     menuIcon.classList.toggle('bx-x');
     navbar.classList.toggle('active');
 }
