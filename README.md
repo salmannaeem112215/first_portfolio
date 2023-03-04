@@ -1,3 +1,3 @@
 # first_portfolio
 
-Code form : https://www.youtube.com/watch?v=Tkp3FDgOueM&t=104s
+Code from : https://www.youtube.com/watch?v=Tkp3FDgOueM&t=104s
